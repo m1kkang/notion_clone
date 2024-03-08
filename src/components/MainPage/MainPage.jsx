@@ -6,10 +6,10 @@ import "../../index.css";
 
 function MainPage() {
   return (
-    <div className="container flex w-full h-full">
+    <div className="container flex flex-col w-full h-full ">
       <Header />
       <Main />
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 }

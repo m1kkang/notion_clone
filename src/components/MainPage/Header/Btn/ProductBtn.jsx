@@ -10,7 +10,7 @@ export default function ProductBtn() {
   return (
     <Menu as="div" className="relative inline-block text-left pl-[10px]">
       <div>
-        <Menu.Button className="text-base inline-flex w-full justify-center gap-x-0.5 rounded-md bg-white px-3 py-2 text-sm text-gray-900  ring-gray-300 hover:bg-gray-50">
+        <Menu.Button className="text-base inline-flex w-full justify-center gap-x-0.5 rounded-md bg-white px-3 py-2 text-gray-900  ring-gray-300 hover:bg-gray-50">
           프로덕트
           <ChevronDownIcon className="-mr-1 h-5 w-5" aria-hidden="true" />
         </Menu.Button>

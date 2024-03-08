@@ -7,7 +7,12 @@ import HeaderBtn from "./Btn/HeaderBtn";
 
 function Header() {
   return (
-    <div className="w-full container flex justify-between px-[15px] py-[10px] bg-pink-300">
+    <div
+      className="w-1500 flex justify-between px-[80px] py-[10px]"
+      style={{
+        borderBottom: "2px solid lightgray",
+      }}
+    >
       <div className="container flex flex-row ">
         <button className="container w-[92.79px] items-center h-full">
           <svg
@@ -40,7 +45,7 @@ function Header() {
         <DataBtn></DataBtn>
         <HeaderBtn>요금제</HeaderBtn>
       </div>
-      <div className="container flex flex-row items-center ml-auto">
+      <div className="container flex flex-row items-center justify-end">
         <HeaderBtn>영업팀 문의하기</HeaderBtn>
         <div class="h-[22px] w-[0.5px] bg-gray-200 cursor-default ml-[10px] mr-[10px]"></div>
         <HeaderBtn>로그인</HeaderBtn>
