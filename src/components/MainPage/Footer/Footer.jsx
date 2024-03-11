@@ -7,7 +7,7 @@ import FooterSpace5 from "./FooterSpace/FooterSpace5";
 export default function Footer() {
   return (
     <div
-      className="flex flex-col"
+      className="flex flex-col pb-20"
       style={{
         borderTop: "1px solid lightgray",
       }}

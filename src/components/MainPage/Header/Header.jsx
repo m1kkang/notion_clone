@@ -9,9 +9,9 @@ function Header() {
   return (
     <div
       className="w-1500 flex justify-between px-[80px] py-[10px]"
-      style={{
-        borderBottom: "2px solid lightgray",
-      }}
+      // style={{
+      //   borderBottom: "2px solid lightgray",
+      // }}
     >
       <div className="container flex flex-row ">
         <button className="container w-[92.79px] items-center h-full">

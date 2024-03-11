@@ -5,7 +5,7 @@ const FSBtn2 = ({ children }) => {
   return (
     <>
       <button
-        className="border-none cursor-pointer bg-transparent block leading-8 text-neutral-600 font-light hover:text-sky-500 hover:underline"
+        className="border-none cursor-pointer bg-transparent block leading-8 text-neutral-600 font-light hover:text-[#5a85d1] hover:underline"
         style={{
           content: "",
           padding: "0 10px",
