@@ -1,20 +1,20 @@
 export default function MainSpace2() {
   return (
-    <div className="flex flex-col items-center py-10">
-      <div className="flex flex-col items-center">
+    <div className="flex flex-col items-centerjustify-center py-10">
+      <div className="flex flex-col items-center justify-center">
         <h1
           className="
         text-4xl font-extrabold pt-8 pb-4"
         >
           수백만 명이 매일 사용하는 Notion
         </h1>
-        <h1 className="text-sm w-[710px] pb-3">
+        <h1 className="text-base w-[710px] pb-3">
           차세대 스타트업부터 기존 기업에 이르기까지 세계 최고의 팀들을 지<br />
           원합니다
         </h1>
       </div>
       <div className="flex flew-row justify-center pb-6">
-        <button className="text-[#5a85d1] hover:underline text-sm">
+        <button className="text-[#5a85d1] hover:underline text-base">
           고객 스토리 읽어보기 ⭢
         </button>
       </div>

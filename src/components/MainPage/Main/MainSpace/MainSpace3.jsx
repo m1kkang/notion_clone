@@ -78,7 +78,7 @@ export default function MainSpace3() {
           data-airgap-id="66"
         />
         <div className="flex flex-col justify-start w-auto">
-          <h1 className="text-sm font-semibold justify-start">Justin Watt</h1>
+          <h1 className="text-sm font-semibold text-start">Justin Watt</h1>
           <h1 className="text-sm">MetaLab 운영 및 마케팅팀 이사</h1>
         </div>
       </div>

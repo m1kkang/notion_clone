@@ -8,7 +8,7 @@ export default function MainSpace7() {
         >
           무료로 시작하기
         </h1>
-        <h1 className="text-sm w-[710px] pb-6">
+        <h1 className="text-base w-[710px] pb-6">
           요금을 지불하고 팀원을 추가하기 전에 무료로 충분히 사용해 보세요.
         </h1>
       </div>
